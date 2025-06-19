@@ -9,3 +9,6 @@ https://www.linkedin.com/learning/microservices-asynchronous-messaging/getting-w
 
 Microservice Design Patterns
 https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns
+
+Microservices Security
+https://www.linkedin.com/learning/microservices-security/securing-microservices
